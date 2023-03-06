@@ -11,7 +11,7 @@
 * 管理
 * 技术
 
-人才培养：Π型人才
+人才培养：$\pi$ 型人才
 
 * 建设法规
 * 经济法
@@ -107,11 +107,11 @@
 
 ## 第 1 讲 BIM 的概念和特点
 
-* Build Information Modeling
+* Build Information Modeling —— BIM 应用
 
-* Build Information Model —— 建筑信息模型是一个设施**物理特征**和**功能特性**的数字化表达
+* Build Information Model —— BIM 模型 —— 建筑信息模型是一个设施**物理特征**和**功能特性**的数字化表达
 
-* Build Information Management
+* Build Information Management —— 信息管理
 
 
 
@@ -119,3 +119,24 @@
 
 * 2002 年，Autodesk 公司提出建筑信息模型（BIM），Revit 面世
 * 2017年，中国全面普及 BIM 概念
+
+
+
+2. 施工可视化
+   * 施工组织可视化
+     * 最开始 BIM 被大量应用于工程招投标的效果展示
+   * 复杂节点可视化
+   * 设备可操作性可视化
+   * 机电管线碰撞检查可视化
+3. 模拟性
+4. 优化性（Optimization）
+5. 可出图性（Documentation）
+
+---
+
+## BIM 信息的特点
+
+* 信息的完备性
+* 信息的一致性
+* 物件参数化
+* 
